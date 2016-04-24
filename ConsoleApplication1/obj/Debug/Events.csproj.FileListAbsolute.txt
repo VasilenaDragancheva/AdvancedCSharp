@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

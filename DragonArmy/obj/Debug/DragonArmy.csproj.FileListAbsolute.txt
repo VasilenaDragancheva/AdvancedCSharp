@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\bin\Debug\DragonArmy.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\bin\Debug\DragonArmy.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\bin\Debug\DragonArmy.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\obj\Debug\DragonArmy.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\DragonArmy\obj\Debug\DragonArmy.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\DragonArmy\bin\Debug\DragonArmy.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\DragonArmy\obj\Debug\DragonArmy.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\DragonArmy\obj\Debug\DragonArmy.pdb

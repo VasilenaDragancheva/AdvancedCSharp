@@ -1,0 +1,8 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Calculator\bin\Debug\Calculator.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Calculator\obj\Debug\Calculator.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Calculator\obj\Debug\Calculator.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Calculator\obj\Debug\Calculator.pdb

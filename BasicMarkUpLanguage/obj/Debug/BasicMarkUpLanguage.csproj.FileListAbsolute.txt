@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\bin\Debug\BasicMarkUpLanguage.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\bin\Debug\BasicMarkUpLanguage.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\bin\Debug\BasicMarkUpLanguage.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\obj\Debug\BasicMarkUpLanguage.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\obj\Debug\BasicMarkUpLanguage.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BasicMarkUpLanguage\obj\Debug\BasicMarkUpLanguage.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\bin\Debug\Nightlife.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\bin\Debug\Nightlife.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\bin\Debug\Nightlife.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\obj\Debug\Nightlife.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\obj\Debug\Nightlife.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Nightlife\obj\Debug\Nightlife.pdb

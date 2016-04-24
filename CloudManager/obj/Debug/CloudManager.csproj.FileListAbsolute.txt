@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\bin\Debug\CloudManager.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\bin\Debug\CloudManager.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\bin\Debug\CloudManager.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\obj\Debug\CloudManager.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\obj\Debug\CloudManager.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\CloudManager\obj\Debug\CloudManager.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\CloudManager\bin\Debug\CloudManager.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\CloudManager\obj\Debug\CloudManager.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\CloudManager\obj\Debug\CloudManager.pdb

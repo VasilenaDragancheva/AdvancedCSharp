@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\bin\Debug\LongestOddEvenSequence.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\bin\Debug\LongestOddEvenSequence.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\bin\Debug\LongestOddEvenSequence.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\obj\Debug\LongestOddEvenSequence.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\obj\Debug\LongestOddEvenSequence.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LongestOddEvenSequence\obj\Debug\LongestOddEvenSequence.pdb

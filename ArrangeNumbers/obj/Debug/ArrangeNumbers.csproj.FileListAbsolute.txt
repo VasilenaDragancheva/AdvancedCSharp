@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\bin\Debug\ArrangeNumbers.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\bin\Debug\ArrangeNumbers.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\bin\Debug\ArrangeNumbers.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\obj\Debug\ArrangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\obj\Debug\ArrangeNumbers.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ArrangeNumbers\obj\Debug\ArrangeNumbers.pdb

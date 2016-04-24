@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\bin\Debug\TeerroristWIn.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\bin\Debug\TeerroristWIn.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\bin\Debug\TeerroristWIn.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\obj\Debug\TeerroristWIn.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\obj\Debug\TeerroristWIn.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\TeerroristWIn\obj\Debug\TeerroristWIn.pdb

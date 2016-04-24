@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\bin\Debug\ValidUsernames.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\bin\Debug\ValidUsernames.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\obj\Debug\ValidUsernames.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ValidUsernames\obj\Debug\ValidUsernames.pdb

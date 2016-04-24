@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\bin\Debug\SoftuniNumerals.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SoftuniNumerals\obj\Debug\SoftuniNumerals.pdb

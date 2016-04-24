@@ -1,0 +1,12 @@
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\bin\Debug\Commandnterpeter.exe.config
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\bin\Debug\Commandnterpeter.exe
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\bin\Debug\Commandnterpeter.pdb
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\obj\Debug\Commandnterpeter.csprojResolveAssemblyReference.cache
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\obj\Debug\Commandnterpeter.exe
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\Commandnterpeter\obj\Debug\Commandnterpeter.pdb
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\Commandnterpeter\bin\Debug\Commandnterpeter.exe.config
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\Commandnterpeter\obj\Debug\Commandnterpeter.exe
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\Commandnterpeter\obj\Debug\Commandnterpeter.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Commandnterpeter\bin\Debug\Commandnterpeter.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Commandnterpeter\obj\Debug\Commandnterpeter.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Commandnterpeter\obj\Debug\Commandnterpeter.pdb

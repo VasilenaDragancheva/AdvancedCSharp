@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\bin\Debug\UpperCase.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\bin\Debug\UpperCase.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\bin\Debug\UpperCase.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\obj\Debug\UpperCase.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\UpperCase\obj\Debug\UpperCase.pdb

@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\bin\Debug\BunkerBuster.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\bin\Debug\BunkerBuster.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\bin\Debug\BunkerBuster.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\obj\Debug\BunkerBuster.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\obj\Debug\BunkerBuster.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\BunkerBuster\obj\Debug\BunkerBuster.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BunkerBuster\bin\Debug\BunkerBuster.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BunkerBuster\obj\Debug\BunkerBuster.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\BunkerBuster\obj\Debug\BunkerBuster.pdb

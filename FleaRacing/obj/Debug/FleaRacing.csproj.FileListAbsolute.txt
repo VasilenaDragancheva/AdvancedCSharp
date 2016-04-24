@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\bin\Debug\FleaRacing.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\bin\Debug\FleaRacing.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\bin\Debug\FleaRacing.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\obj\Debug\FleaRacing.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\obj\Debug\FleaRacing.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\FleaRacing\obj\Debug\FleaRacing.pdb

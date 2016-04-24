@@ -1,0 +1,2 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragon3\bin\Debug\Dragon3.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\Dragon3\bin\Debug\Dragon3.exe.config

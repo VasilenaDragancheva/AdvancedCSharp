@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\bin\Debug\MatrixShuffle.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\bin\Debug\MatrixShuffle.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\bin\Debug\MatrixShuffle.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\obj\Debug\MatrixShuffle.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\obj\Debug\MatrixShuffle.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MatrixShuffle\obj\Debug\MatrixShuffle.pdb

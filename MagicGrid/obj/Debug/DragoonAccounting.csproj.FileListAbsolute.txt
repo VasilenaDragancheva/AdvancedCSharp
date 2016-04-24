@@ -1,0 +1,3 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MagicGrid\bin\Debug\MagicGrid.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MagicGrid\obj\Debug\MagicGrid.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\MagicGrid\obj\Debug\MagicGrid.pdb

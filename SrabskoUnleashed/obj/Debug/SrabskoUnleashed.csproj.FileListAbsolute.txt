@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\bin\Debug\SrabskoUnleashed.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\SrabskoUnleashed\obj\Debug\SrabskoUnleashed.pdb

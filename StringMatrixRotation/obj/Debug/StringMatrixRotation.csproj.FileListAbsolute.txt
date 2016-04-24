@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\obj\Debug\StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb

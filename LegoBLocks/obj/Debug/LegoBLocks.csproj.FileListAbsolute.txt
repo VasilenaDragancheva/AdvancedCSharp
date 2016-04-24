@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\bin\Debug\LegoBLocks.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\bin\Debug\LegoBLocks.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\bin\Debug\LegoBLocks.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\obj\Debug\LegoBLocks.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\obj\Debug\LegoBLocks.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LegoBLocks\obj\Debug\LegoBLocks.pdb

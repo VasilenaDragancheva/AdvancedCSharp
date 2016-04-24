@@ -1,0 +1,6 @@
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\bin\Debug\TargetPractice.exe.config
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\bin\Debug\TargetPractice.exe
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\bin\Debug\TargetPractice.pdb
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\obj\Debug\TargetPractice.exe
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\obj\Debug\TargetPractice.pdb
+c:\users\bacuty\documents\visual studio 2013\Projects\Solution1\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache

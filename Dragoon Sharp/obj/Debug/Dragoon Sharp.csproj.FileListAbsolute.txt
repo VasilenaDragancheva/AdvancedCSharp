@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\bin\Debug\Dragoon Sharp.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\bin\Debug\Dragoon Sharp.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\bin\Debug\Dragoon Sharp.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\obj\Debug\Dragoon Sharp.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\obj\Debug\Dragoon Sharp.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\Dragoon Sharp\obj\Debug\Dragoon Sharp.pdb

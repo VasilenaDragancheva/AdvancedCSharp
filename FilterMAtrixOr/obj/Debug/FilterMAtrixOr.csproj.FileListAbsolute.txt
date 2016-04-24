@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\bin\Debug\FilterMAtrixOr.exe.config
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\bin\Debug\FilterMAtrixOr.exe
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\bin\Debug\FilterMAtrixOr.pdb
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\obj\Debug\FilterMAtrixOr.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\obj\Debug\FilterMAtrixOr.exe
+C:\Users\User-01\Documents\Projects\AdvancedCSharp\FilterMAtrixOr\obj\Debug\FilterMAtrixOr.pdb

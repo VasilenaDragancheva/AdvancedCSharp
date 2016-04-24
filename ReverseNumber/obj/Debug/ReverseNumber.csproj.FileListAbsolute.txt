@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\bin\Debug\ReverseNumber.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\bin\Debug\ReverseNumber.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\ReverseNumber\obj\Debug\ReverseNumber.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ReverseNumber\obj\Debug\ReverseNumber.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\ReverseNumber\obj\Debug\ReverseNumber.pdb

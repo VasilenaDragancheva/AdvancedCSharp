@@ -1,0 +1,6 @@
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\bin\Debug\LabyrinthDash.exe.config
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\bin\Debug\LabyrinthDash.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\bin\Debug\LabyrinthDash.pdb
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\obj\Debug\LabyrinthDash.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\obj\Debug\LabyrinthDash.exe
+C:\Users\bacuty\documents\visual studio 2013\Projects\Solution1\LabyrinthDash\obj\Debug\LabyrinthDash.pdb
