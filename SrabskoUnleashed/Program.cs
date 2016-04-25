@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Runtime.CompilerServices;
 
     public class Program
     {
@@ -30,6 +29,7 @@
                 {
                     continue;
                 }
+
                 string venue = commandParams[0];
                 string singer = commandParams[1];
                 decimal price = decimal.Parse(commandParams[2]);
@@ -39,10 +39,12 @@
                 {
                     venues.Add(venue, new Dictionary<string, decimal>());
                 }
+
                 if (!venues[venue].ContainsKey(singer))
                 {
                     venues[venue].Add(singer, 0);
                 }
+
                 venues[venue][singer] += price * count;
             }
 
@@ -59,18 +61,20 @@
 
         private static bool ParseValidCommand(string line, out string[] commandParams)
         {
-            string[] parts = line.Split(new char[] { '@' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] parts = line.Split(new[] { '@' }, StringSplitOptions.RemoveEmptyEntries);
             if (parts.Length < 2)
             {
                 commandParams = new string[4];
                 return false;
             }
+
             string[] secondPart = parts[1].Split(' ');
             if (secondPart.Length < 3)
             {
                 commandParams = new string[4];
                 return false;
             }
+
             string singerName = parts[0];
             int places;
             decimal price;
@@ -84,7 +88,6 @@
             {
                 return false;
             }
-
 
             commandParams[1] = singerName.Substring(0, singerName.Length - 1);
             commandParams[0] = string.Join(" ", secondPart, 0, secondPart.Length - 2);

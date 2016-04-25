@@ -50,6 +50,7 @@
             {
                 result *= 5;
             }
+
             return result;
         }
     }

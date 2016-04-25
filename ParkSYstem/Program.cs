@@ -93,7 +93,6 @@
                     if (distanceBefore <= distanceAfter)
                     {
                         availableColumn = colBefore;
-
                     }
                     else
                     {
@@ -108,4 +107,3 @@
         }
     }
 }
-

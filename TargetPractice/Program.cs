@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TargetPractice
+﻿namespace TargetPractice
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)
         {
-           
             string dimensions = Console.ReadLine();
             string snake = Console.ReadLine();
             int[] shot = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
@@ -45,13 +41,13 @@ namespace TargetPractice
                             snakeIndexer = 0;
                         }
                     }
-
                 }
 
                 rowsIndexer++;
             }
-            Shooting(shot, stairs,rows,cols);
-            ClearingStairs(stairs,rows);
+
+            Shooting(shot, stairs, rows, cols);
+            ClearingStairs(stairs, rows);
 
             for (int r = 0; r < stairs.GetLength(0); r++)
             {
@@ -59,11 +55,12 @@ namespace TargetPractice
                 {
                     Console.Write(stairs[r, c]);
                 }
+
                 Console.WriteLine();
             }
         }
 
-        private static void Shooting(int[] bomb, char[,] stairs,int rows,int cols)
+        private static void Shooting(int[] bomb, char[,] stairs, int rows, int cols)
         {
             int radius = bomb[2];
             for (int r = 0; r < stairs.GetLength(0); r++)
@@ -81,9 +78,9 @@ namespace TargetPractice
             }
         }
 
-        static private void ClearingStairs(char[,] stairs,int rows)
+        static private void ClearingStairs(char[,] stairs, int rows)
         {
-            for (int r =rows- 2; r >= 0; r--)
+            for (int r = rows - 2; r >= 0; r--)
             {
                 for (int c = 0; c < stairs.GetLength(1); c++)
                 {
@@ -97,23 +94,21 @@ namespace TargetPractice
                         }
                     }
                 }
-
             }
         }
 
         private static int CountWhiteSpaces(char[,] stairs, int r, int c)
         {
             int count = 0;
-            for(int row=r;row<stairs.GetLength(0);row++)
+            for (int row = r; row < stairs.GetLength(0); row++)
             {
-                if(char.IsWhiteSpace(stairs[row,c]))
+                if (char.IsWhiteSpace(stairs[row, c]))
                 {
                     count++;
                 }
             }
+
             return count;
         }
-        
-           
     }
 }

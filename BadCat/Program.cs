@@ -28,7 +28,7 @@
             if (arranged[0] == 0)
             {
                 arranged.Remove(0);
-                arranged.Insert(1,0);
+                arranged.Insert(1, 0);
             }
 
             foreach (var location in locations)
@@ -50,18 +50,15 @@
 
             if (arranged[0] == 0)
             {
-                
                 var allAfter =
                     locations.Where(l => l[2] == "after").OrderBy(l => int.Parse(l[3])).Select(l => int.Parse(l[3]));
-                var allBefore = locations.Where(l => l[2] == "before").OrderBy(l => int.Parse(l[0])).Select(l => int.Parse(l[0]));
-
+                var allBefore =
+                    locations.Where(l => l[2] == "before").OrderBy(l => int.Parse(l[0])).Select(l => int.Parse(l[0]));
 
                 int number = allAfter.FirstOrDefault(num => !allBefore.Contains(num));
                 arranged.Remove(number);
                 arranged.Insert(0, number);
-
             }
-
 
             Console.WriteLine(string.Join(string.Empty, arranged));
         }

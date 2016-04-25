@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace StringMatrixRotation
+﻿namespace StringMatrixRotation
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)
         {
-            string[] command = Console.ReadLine().Split(new char[] { ')', '(' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] command = Console.ReadLine().Split(new[] { ')', '(' }, StringSplitOptions.RemoveEmptyEntries);
             int degrees = int.Parse(command[1]) % 360;
             List<string> matrix = new List<string>();
             string line;
@@ -26,13 +24,15 @@ namespace StringMatrixRotation
 
                 matrix.Add(line);
             }
+
             colsOriginal = matrix.Max(row => row.Length);
             rowsOriginal = matrix.Count;
             int times = degrees / 90;
-            for (int i = 0; i < times;i++ )
+            for (int i = 0; i < times; i++)
             {
                 matrix = RotateMatrix(matrix);
             }
+
             foreach (string row in matrix)
             {
                 Console.WriteLine(row);
@@ -58,10 +58,11 @@ namespace StringMatrixRotation
                         word.Add(matrix[c][r]);
                     }
                 }
+
                 rotatedMatrix.Add(new string(word.ToArray()));
             }
-           return rotatedMatrix;
-        }
 
+            return rotatedMatrix;
+        }
     }
 }

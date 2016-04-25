@@ -11,7 +11,7 @@ public class Program
         string actionTag = "<\\s*(reverse|inverse|repeat)\\s*";
         string contentTag = "content\\s*=\\s*\"(.*?)\"\\s*/\\s*>";
         string patterEnd = "<\\s*stop\\s*/\\s*>";
-       
+
         var regexAction = new Regex(actionTag);
         var regextText = new Regex(contentTag);
 
@@ -43,12 +43,10 @@ public class Program
                         var result = Enumerable.Repeat(content, times);
                         output.AddRange(result);
                     }
-
                     catch (FormatException)
                     {
-                       continue;
                     }
-                   
+
                     break;
                 case "inverse":
                     char[] inveresed = content.ToCharArray().Select(InverseChar).ToArray();

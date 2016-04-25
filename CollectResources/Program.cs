@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CollectResources
+﻿namespace CollectResources
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)
@@ -44,11 +42,11 @@ namespace CollectResources
                     }
 
                     start = (start + step) % resources.Length;
-
                 }
 
                 countCOllected.Add(currentCollected);
             }
+
             Console.WriteLine(countCOllected.Max());
         }
     }

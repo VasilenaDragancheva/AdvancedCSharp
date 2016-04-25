@@ -1,23 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApplication1
+﻿namespace ConsoleApplication1
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     using System.Text.RegularExpressions;
 
     public class Program
     {
         public static void Main(string[] args)
         {
-
             int lines = int.Parse(Console.ReadLine());
 
             string pattern = @"^#([a-zA-Z]+):\s*@([a-zA-Z]+)\s*(\d{1,2}:\d{1,2})$";
             Regex validEvent = new Regex(pattern);
-            Dictionary<string, Dictionary<string, List<string>>> events = new Dictionary<string, Dictionary<string, List<string>>>();
+            Dictionary<string, Dictionary<string, List<string>>> events =
+                new Dictionary<string, Dictionary<string, List<string>>>();
             for (int i = 0; i < lines; i++)
             {
                 string input = Console.ReadLine();
@@ -37,9 +34,7 @@ namespace ConsoleApplication1
                 if (hours < 0 || hours > 23 || minutes < 0 || minutes > 59)
                 {
                     continue;
-
                 }
-
 
                 if (!events.ContainsKey(location))
                 {
@@ -54,7 +49,7 @@ namespace ConsoleApplication1
                 events[location][person].Add(dateTime);
             }
 
-            string[] locationsToSearch = Console.ReadLine().Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] locationsToSearch = Console.ReadLine().Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries);
             Array.Sort(locationsToSearch);
             foreach (var location in locationsToSearch)
             {
@@ -65,15 +60,14 @@ namespace ConsoleApplication1
                     int counter = 1;
                     foreach (var person in personsByName)
                     {
-                        var datesTime = person.Value
-                            .OrderBy(t => int.Parse(t.Substring(0, t.IndexOf(':'))))
-                            .ThenBy(t => int.Parse(t.Substring(t.IndexOf(':') + 1)));
+                        var datesTime =
+                            person.Value.OrderBy(t => int.Parse(t.Substring(0, t.IndexOf(':'))))
+                                .ThenBy(t => int.Parse(t.Substring(t.IndexOf(':') + 1)));
                         Console.WriteLine("{0}. {1} -> {2}", counter, person.Key, string.Join(", ", datesTime));
                         counter++;
                     }
                 }
             }
-
         }
     }
 }

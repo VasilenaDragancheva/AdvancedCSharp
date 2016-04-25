@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Calculator
+﻿namespace Calculator
 {
+    using System;
+    using System.Collections.Generic;
+
     class Program
     {
         static void Main(string[] args)
@@ -20,14 +17,14 @@ namespace Calculator
                 notValidInt = true;
                 Console.WriteLine("FormatException");
             }
-            else if ((number.Length > maxValue.Length && char.IsDigit(number[0])) ||
-                    (number.Length > minValue.Length && number[0] == '-'))
+            else if ((number.Length > maxValue.Length && char.IsDigit(number[0]))
+                     || (number.Length > minValue.Length && number[0] == '-'))
             {
                 notValidInt = true;
                 Console.WriteLine("OverflowException");
             }
-            else if ((number.Length == maxValue.Length && char.IsDigit(number[0])) ||
-                    (number.Length == minValue.Length && number[0] == '-'))
+            else if ((number.Length == maxValue.Length && char.IsDigit(number[0]))
+                     || (number.Length == minValue.Length && number[0] == '-'))
             {
                 int start = number[0] == '-' ? 1 : 0;
                 List<int> differences = new List<int>();
@@ -42,25 +39,20 @@ namespace Calculator
                     {
                         diff = minValue[i] - number[i];
                     }
+
                     if (diff > 0)
                     {
-                        
                     }
+
                     differences.Add(diff);
-                   
-                    
                 }
-
-                
             }
-
             {
-
             }
         }
+
         static void AnalyzeDiff(List<int> differences)
         {
-
         }
     }
 }

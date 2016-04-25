@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Runtime.InteropServices;
 
     public class Program
     {
@@ -41,7 +40,6 @@
                         {
                             Console.WriteLine(result);
                         }
-                   
                     }
                 }
                 else
@@ -54,8 +52,6 @@
                         {
                             Console.WriteLine(result);
                         }
-
-                    
                     }
                 }
             }
@@ -63,8 +59,6 @@
             Console.WriteLine("Turns {0}", turns);
             Console.WriteLine("Money {0}", money);
         }
-
-
 
         private static string FindResult(List<string> gameField, int r, int c)
         {
@@ -98,7 +92,6 @@
                     money += hotels * 10;
                     result = string.Empty;
                     break;
-
             }
 
             return result;

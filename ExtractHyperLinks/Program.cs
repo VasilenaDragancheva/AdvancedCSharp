@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ExtractHyperLinks
+﻿namespace ExtractHyperLinks
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)
@@ -16,9 +14,8 @@ namespace ExtractHyperLinks
             {
                 string line = Console.ReadLine();
                 matrix[i] = line.ToCharArray();
-               
             }
-           
+
             string command;
             while (true)
             {
@@ -27,7 +24,11 @@ namespace ExtractHyperLinks
                 {
                     break;
                 }
-                int[] info = command.Split(new char[] { ' ', ')', '(' }, StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+                int[] info =
+                    command.Split(new[] { ' ', ')', '(' }, StringSplitOptions.RemoveEmptyEntries)
+                        .Select(int.Parse)
+                        .ToArray();
                 int row = info[0];
                 int col = info[1];
                 int radius = info[2];
@@ -36,28 +37,25 @@ namespace ExtractHyperLinks
                 List<char> charsToBeRotated = new List<char>();
                 for (int r = row - radius; r <= row + radius; r++)
                 {
-                   
                     if (r == row - radius)
                     {
                         for (int c = col - radius; c <= col + radius; c++)
                         {
                             if (r >= 0 && r < n && c >= 0 && c < matrix[r].Length)
                             {
-                                coordinatesToBeRotated.Add(new int[] { r, c });
+                                coordinatesToBeRotated.Add(new[] { r, c });
                                 charsToBeRotated.Add(matrix[r][c]);
                             }
                         }
-                        
                     }
                     else if (r < radius + row)
-                    { 
-                         int c = col + radius;
+                    {
+                        int c = col + radius;
                         if (r >= 0 && r < n && c >= 0 && c < matrix[r].Length)
                         {
-                            coordinatesToBeRotated.Add(new int[] { r, c });
+                            coordinatesToBeRotated.Add(new[] { r, c });
                             charsToBeRotated.Add(matrix[r][c]);
                         }
-
                     }
                     else if (r == row + radius)
                     {
@@ -65,25 +63,25 @@ namespace ExtractHyperLinks
                         {
                             if (r >= 0 && r < n && c >= 0 && c < matrix[r].Length)
                             {
-                                coordinatesToBeRotated.Add(new int[] { r, c });
+                                coordinatesToBeRotated.Add(new[] { r, c });
                                 charsToBeRotated.Add(matrix[r][c]);
                             }
                         }
-                        
                     }
                 }
-                for (int r=row+radius-1; r >= row-radius+1; r--)
+
+                for (int r = row + radius - 1; r >= row - radius + 1; r--)
                 {
                     int c = col - radius;
                     if (r >= 0 && r < n && c >= 0 && c < matrix[r].Length)
                     {
-                        coordinatesToBeRotated.Add(new int[] { r, c });
+                        coordinatesToBeRotated.Add(new[] { r, c });
                         charsToBeRotated.Add(matrix[r][c]);
                     }
                 }
-             
+
                 List<char> charsAfterRotation = new List<char>();
-              
+
                 if (rotation > 0)
                 {
                     int rotatedNumbers = rotation % coordinatesToBeRotated.Count;
@@ -97,16 +95,12 @@ namespace ExtractHyperLinks
                         matrix[rrrr][cccc] = charsAfterRotation[i];
                     }
 
-                        foreach (char[] chr in matrix)
-                        {
-                            Console.WriteLine(chr);
-                        }
-                   
+                    foreach (char[] chr in matrix)
+                    {
+                        Console.WriteLine(chr);
+                    }
                 }
-               
             }
-
-           
         }
     }
 }

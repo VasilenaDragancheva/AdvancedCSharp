@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MatrixShuffle
+﻿namespace MatrixShuffle
 {
+    using System;
+    using System.Text;
+
     class Program
     {
         static void Main(string[] args)
@@ -16,10 +13,10 @@ namespace MatrixShuffle
             int startRow = 0;
             int startCol = 0;
 
-            char[] directions = new char[] { 'r', 'd', 'l', 'u' };//r l u d
-            int cells = 0;// counting cell
+            char[] directions = { 'r', 'd', 'l', 'u' }; // r l u d
+            int cells = 0; // counting cell
             int limit = matrix.Length;
-            int stepsInDirection = n - 1;//startrs
+            int stepsInDirection = n - 1; // startrs
             int indexOfDirection = 0;
             int stepsInCurrentDirection = -1;
             int flag = 3;
@@ -41,8 +38,8 @@ namespace MatrixShuffle
                         directionsWithSameSteps = 0;
                         stepsInDirection--;
                     }
-
                 }
+
                 char direction = directions[indexOfDirection % 4];
                 switch (direction)
                 {
@@ -60,6 +57,7 @@ namespace MatrixShuffle
                         break;
                 }
             }
+
             StringBuilder white = new StringBuilder();
             StringBuilder black = new StringBuilder();
             for (int r = 0; r < n; r++)
@@ -75,18 +73,18 @@ namespace MatrixShuffle
                         black.Append(matrix[r, c].ToString());
                     }
                 }
-
             }
-           black.Append(white.ToString());
+
+            black.Append(white);
             char[] reversed = black.ToString().ToLower().ToCharArray();
             Array.Reverse(reversed);
-            if(black.ToString().ToLower()!=new string(reversed))
+            if (black.ToString().ToLower() != new string(reversed))
             {
-                Console.WriteLine("<div style='background-color:#E0000F'>{0}</div>",black.ToString());
+                Console.WriteLine("<div style='background-color:#E0000F'>{0}</div>", black);
             }
             else
             {
-                Console.WriteLine("<div style='background-color:#4FE000'>{0}</div>",black.ToString());
+                Console.WriteLine("<div style='background-color:#4FE000'>{0}</div>", black);
             }
         }
     }

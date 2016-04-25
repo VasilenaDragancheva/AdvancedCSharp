@@ -37,6 +37,7 @@
                     {
                         inputToRemove[k] = true;
                     }
+
                     i += equalsCount - 1;
                 }
             }
@@ -52,8 +53,8 @@
                         numbersOnRow.Add(input[j]);
                     }
                 }
-                Console.WriteLine(numbersOnRow.Count > 0 ?
-                    string.Join(" ", numbersOnRow) : "(empty");
+
+                Console.WriteLine(numbersOnRow.Count > 0 ? string.Join(" ", numbersOnRow) : "(empty");
                 passedElements += stringsPerRow[i];
             }
         }

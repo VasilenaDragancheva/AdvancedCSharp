@@ -1,16 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CloudManager
+﻿namespace CloudManager
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Globalization;
+    using System.Linq;
+    using System.Threading;
+
     class Program
     {
         static void Main(string[] args)
         {
-           System.Threading.Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
             Dictionary<string, Dictionary<string, double>> result = new Dictionary<string, Dictionary<string, double>>();
             string line;
             while (true)
@@ -20,6 +20,7 @@ namespace CloudManager
                 {
                     break;
                 }
+
                 string[] data = line.Split(' ');
                 string filename = data[0];
                 string format = data[1];
@@ -28,20 +29,19 @@ namespace CloudManager
                 {
                     result.Add(format, new Dictionary<string, double>());
                 }
+
                 result[format].Add(filename, size);
-
-
             }
+
             var sortedByTotalSize = result.OrderBy(ext => ext.Value.Values.Sum());
-            foreach(var type in sortedByTotalSize)
+            foreach (var type in sortedByTotalSize)
             {
-                Console.WriteLine("+++"+type.Key+"+++");
+                Console.WriteLine("+++" + type.Key + "+++");
                 var sortedFilesBySize = type.Value.OrderBy(file => file.Value);
-                foreach(var file in sortedFilesBySize)
+                foreach (var file in sortedFilesBySize)
                 {
-                    Console.WriteLine("->"+file.Key+" "+file.Value);
+                    Console.WriteLine("->" + file.Key + " " + file.Value);
                 }
-                
             }
         }
     }
