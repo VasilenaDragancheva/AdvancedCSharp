@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\bin\Debug\RoyalAccounting.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\bin\Debug\RoyalAccounting.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\bin\Debug\RoyalAccounting.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\obj\Debug\RoyalAccounting.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\obj\Debug\RoyalAccounting.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalAccounting\obj\Debug\RoyalAccounting.pdb

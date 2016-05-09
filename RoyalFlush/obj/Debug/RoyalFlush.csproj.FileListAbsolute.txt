@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\bin\Debug\RoyalFlush.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\bin\Debug\RoyalFlush.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\bin\Debug\RoyalFlush.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\obj\Debug\RoyalFlush.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\obj\Debug\RoyalFlush.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Fundamental\AdvancedCSharp\RoyalFlush\obj\Debug\RoyalFlush.pdb
